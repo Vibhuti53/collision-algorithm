@@ -1,2 +1,2 @@
-# collision-algorithm
-passing arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
